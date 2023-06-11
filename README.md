@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DABE4,100:0080ff&height=300&section=header&text=거니맘%20render&fontSize=90)
+<div align="center">
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:6dabe4,100:0080ff&height=180&section=header&text=Gni Mom&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+	</div>
 
 <!--
 **gnidinger/gnidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
