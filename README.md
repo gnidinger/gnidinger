@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "https://capsule-render.vercel.app/api?type=transparent&color=6dabe4&height=180&section=header&text=GniDinger&fontSize=40&fontAlignY=36&fontColor=6dabe4"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=B63347&height=180&section=header&text=GniDinger&fontSize=40&fontAlignY=36&fontColor=6dabe4"/>
 	</div>
 
 <div align=center> 
@@ -47,6 +47,12 @@
 	
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gnidinger&layout=compact"/>
+	</div>
+
+</br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gnidinger&show_icons=true">
 	</div>
 <!--
 **gnidinger/gnidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
