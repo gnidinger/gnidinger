@@ -21,6 +21,12 @@
   </br>
   	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/CAdvisor-7b7d7f?style=flat&logo=tripadvisor&logoColor=white">
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
+	<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
+	<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
   </br>
   	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
