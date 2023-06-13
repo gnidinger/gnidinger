@@ -22,6 +22,7 @@
   </br>
   	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 	<img src="https://img.shields.io/badge/CAdvisor-7b7d7f?style=flat&logo=tripadvisor&logoColor=white">
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
