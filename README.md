@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
+	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 	<img src="https://img.shields.io/badge/R2DBC-262f64?style=flat&logo=RxDB&logoColor=white">
   </br>
   	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
