@@ -45,10 +45,18 @@
 </div>
 
 </br>
+
+<div align="center">
+- Resume: <a href="https://fortunate-ulna-a79.notion.site/5ba0303103b84b13aa05d5ebcbb02702?pvs=4">김태영</a>
+	</br>
+- Blog: <a href="https://gnidinger.tistory.com/">고양이 두 잔</a> 
+	</div>
 </br>
-	
+
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gnidinger&layout=compact">
+	</br>
+	</br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gni1618">
 	</div>
 
