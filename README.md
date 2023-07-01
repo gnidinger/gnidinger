@@ -41,7 +41,9 @@
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+	<img src="https://img.shields.io/badge/TypeSript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 </div>
 
 </br>
