@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+	<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white">
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 	<img src="https://img.shields.io/badge/R2DBC-262f64?style=flat&logo=RxDB&logoColor=white">
@@ -40,7 +41,6 @@
 	<img src="https://img.shields.io/badge/Amazon Route53-63518d?style=flat&logo=Amazon AWS&logoColor=white">
   </br>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 	<img src="https://img.shields.io/badge/TypeSript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
