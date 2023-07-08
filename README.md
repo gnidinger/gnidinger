@@ -11,6 +11,7 @@
 	<img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=flat&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Asciidoctor-E40046?style=flat&logo=Asciidoctor&logoColor=white">
+	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
   </br>
  	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
