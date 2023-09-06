@@ -41,6 +41,7 @@
 	<img src="https://img.shields.io/badge/Amazon Route53-63518d?style=flat&logo=Amazon AWS&logoColor=white">
   </br>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 	<img src="https://img.shields.io/badge/TypeSript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
